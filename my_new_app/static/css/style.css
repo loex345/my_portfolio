@@ -13,6 +13,10 @@ body {
     text-align: center;
   }
   
-  #centertitle{
+  #centertitle {
     text-align: center;
   }
+
+.imgdec {
+ text-align: right;
+}
