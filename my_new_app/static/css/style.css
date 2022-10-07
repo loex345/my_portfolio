@@ -2,6 +2,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  font-family: 'Righteous', cursive;
 }
 
 main {
@@ -15,6 +16,9 @@ footer.page-footer {
 
 #centertitle {
   text-align: center;
+}
+#lefttitle {
+  text-align: left;
 }
 
 .imgdec {
