@@ -23,8 +23,13 @@ footer.page-footer {
 
 .imgdec {
 text-align: right;
+border-radius: 50%;
 }
 
 #imgabout {
 border-radius: 50%;
+}
+
+li{
+  list-style: none;
 }
