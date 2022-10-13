@@ -16,6 +16,7 @@ footer.page-footer {
 
 #centertitle {
   text-align: center;
+  margin-top: 1rem;
 }
 #lefttitle {
   text-align: left;
@@ -30,6 +31,12 @@ border-radius: 50%;
 border-radius: 50%;
 }
 
-li{
+li {
   list-style: none;
+}
+
+#about {
+  display: flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  
 }
