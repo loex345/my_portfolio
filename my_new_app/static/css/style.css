@@ -37,6 +37,6 @@ li {
 
 #about {
   display: flex;
-  grid-template-columns: 1fr 1fr 1fr;
-  
+  grid-template-columns: 1fr 1fr;
+  justify-content:space-evenly;
 }
