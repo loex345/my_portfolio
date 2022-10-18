@@ -27,6 +27,13 @@ text-align: right;
 border-radius: 50%;
 }
 
+@media screen and (max-width: 524px) {
+  .imgdec {
+    width: 10rem;
+    height: 10rem;
+  }
+}
+
 #imgabout {
 border-radius: 50%;
 }
